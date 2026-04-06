@@ -50,3 +50,11 @@ This project serves as:
 - A portfolio demonstration of API integration skills  
 - An example of Power Query JSON ETL  
 - A clean Power BI modeling + visualization example
+
+## Project Structure
+- `postman_jsonfile_fakeAPIproducts/`
+  - Contains Postman collections used for API testing
+- `API_PBI_demo.pbix`
+  - Power BI dashboard
+- `API_PBI_pdf_demo.pdf`
+  - Exported Power BI report
